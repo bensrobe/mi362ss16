@@ -1,0 +1,1 @@
+DB URL: postgres://xdhzbgqfdrguoq:ZxzKSllNhjWP8WRQniTlc619h2@ec2-54-243-239-181.compute-1.amazonaws.com:5432/d7k86sj6p9kq6p
