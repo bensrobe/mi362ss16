@@ -1,0 +1,19 @@
+Deliverables
+
+Custom URL: addressbook.crabdance.com
+
+Source Code: https://github.com/bensrobe/mi362final.git
+
+Checklist:
+  100 points - Hosted on Heroku
+  100 points - Custom domain name
+  100 points - Instructor discretionary
+
+  600 points - Custom programming that matches your Heroku instance:
+                      Java-based grails3 application
+  200 points - Used bootstrap for design
+
+
+My original application pitch was for a different grails application, but time
+and other Heroku memory requirements did not allow for me to create a successful
+build of the application
